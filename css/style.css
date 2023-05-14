@@ -243,3 +243,9 @@ li {
     display: inline-block;
 
 }
+
+.text-header {
+    text-align: center;
+    color: cornflowerblue;
+    font-weight: 700;
+}
